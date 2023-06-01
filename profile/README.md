@@ -1,2 +1,2 @@
-# TheMagicFlute-development-team - README
-hello from TheMagicFlute-development-team!
+# TheMagicFlute-studio - README
+hello from TheMagicFlute-studio!
